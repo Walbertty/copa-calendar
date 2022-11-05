@@ -31,7 +31,7 @@ The Caledar is a component that simulates the credit card filling form, where yo
 
 ## 🔖 Layout
 
-You can view the project layout through [THIS LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). It is necessary to have an account on [Figma](https://figma.com) to access it.
+You can view the project layout through [THIS LINK](https://www.figma.com/file/X81raNqb7xRIbBA3pHOgcT/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1). It is necessary to have an account on [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
